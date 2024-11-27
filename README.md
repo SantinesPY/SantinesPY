@@ -24,3 +24,5 @@ Feel free to connect or explore my work!
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinesPY&layout=compact&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinesPY&show_icons=true&theme=tokyonight)
