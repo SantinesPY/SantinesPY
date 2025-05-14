@@ -23,6 +23,6 @@ Feel free to connect or explore my work!
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinesPY&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinesPY&layout=compact&theme=dark&cache_seconds=60)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinesPY&show_icons=true&theme=tokyonight)
